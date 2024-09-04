@@ -3,6 +3,7 @@ This Script is used to search for Wi-Fi passphrases (PSKs) stored by NetworkMana
 
 Usage:
 
+    git clone https://github.com/Usman-github123/linux_Wifi_Grabber.git
     cd linux_Wifi_Grabber
     chmod +x main.py 
     python3 main.py
